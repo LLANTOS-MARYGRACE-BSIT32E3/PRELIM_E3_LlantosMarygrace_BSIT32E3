@@ -18,6 +18,11 @@ namespace PRELIM_E3_LlantosMarygrace_BSIT32E3.Controllers
             return View();
         }
 
+        public IActionResult School()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
